@@ -13,7 +13,7 @@ npm install sdactivity
 ## Usage 
 
 ```js
-var SDActivity = require("../");
+var SDActivity = require("sdactivity");
 
 var sd = new SDActivity({
   sdpath: "/dev/sdd1" // or "/media/sdcard"
