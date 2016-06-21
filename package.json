@@ -1,6 +1,6 @@
 {
   "name": "sdactivity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Crude SDCard Media Monitor",
   "main": "index.js",
   "scripts": {
