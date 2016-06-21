@@ -1,4 +1,4 @@
-var SDActivity = require("../");
+var SDActivity = require("../"); // <-- change to "sdactivity"
 
 var sd = new SDActivity({
   sdpath: "/dev/disk3s1" // or "/Volumes/name"
