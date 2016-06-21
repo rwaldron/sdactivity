@@ -32,6 +32,14 @@ sd.on("unmount", function() {
 See [Examples](eg) for more. 
 
 
+## SDActivity Configuration Properties
+
+| Name | Description | Default | Required? |
+| ---- | ----------- | ------- | --------- |
+| `sdpath` | System path to monitor | | Yes |
+| `period` | Time in milliseconds between each `sdpath` check | 100 | No |
+
+
 ## License
 
 Copyright (c) 2016 Rick Waldron <waldron.rick@gmail.com>
