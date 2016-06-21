@@ -1,0 +1,12 @@
+{
+  "name": "sdactivity",
+  "version": "0.0.1",
+  "description": "Crude SDCard Media Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rick Waldron <waldron.rick@gmail.com>",
+  "license": "MIT"
+}
